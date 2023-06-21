@@ -2,7 +2,6 @@ import { Alchemy, Network } from 'alchemy-sdk';
 import { useEffect, useState } from 'react';
 
 import './App.css';
-import {Block} from "./Block";
 import {BlockList} from "./BlockList";
 import Spinner from "./Spinner";
 
